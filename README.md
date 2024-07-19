@@ -585,7 +585,4 @@
         var bestContainer = document.getElementsByClassName('best-container')[0];
         return parseInt(bestContainer.innerHTML);
     }
-})();
 
-byte_size('?') # 4
-byte_size('Hello World') # 11
